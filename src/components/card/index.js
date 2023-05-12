@@ -1,0 +1,2 @@
+export { BigCard } from "./BigCard";
+
