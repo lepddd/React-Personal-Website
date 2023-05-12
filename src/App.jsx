@@ -7,7 +7,7 @@ import {
 } from "react-router-dom";
 import { Projects, Home, About } from "./routes";
 import { globalStyles } from "../stitches.config";
-import { RootLayout } from "./layouts/rootLayout";
+import { RootLayout } from "./routes/layouts/RootLayout";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
